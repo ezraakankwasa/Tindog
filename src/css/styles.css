@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.tin-dog {
+  transform: rotate(23deg);
+}
+h1 {
+  font-family: "Montserrat-Black", Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #fff;
+}
